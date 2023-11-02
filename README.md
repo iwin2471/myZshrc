@@ -1,0 +1,2 @@
+# myZshrc
+my zshrc setting
